@@ -1,0 +1,29 @@
+Solutia 1:
+
+1. - mult prea verbose, good code is self explanatori, comentari de genul "Gets/Sets the ..." pe propietati to ce fac e sa te raneasca la ochii cand citesti
+2. - a MenuItem ar trebuie sa fie un poco, un obiect prost care nu trebuie sa stie nimic de wrapping sau de pret, maxim sa care pe el propietate de gen CanBeWrapped (are rost sa pui comentariu la propietatea asta?). Gandestete ce trebuie sa faci daca se schimba preturile la produse, sau daca diferite magazine au diferite preturi la aceleasi produse?
+3. - MenuItem is dependant on Wrapping it's a no no ! vezi srp
+4. - Mult prea multe clase, ceea ce te duce cu gandul la over engineering dar de fapt din cauza punctului 2. ai nevoie de StandardFrenchFries de ex, o abordare mult mai buna ar fi fost evident servicii de wrapping si pricing.
+5. - Wrappings iar clase fara rost aici cand un simplu enum de types ar fi fost suficient, de fapt name pana la urma asta face.
+6. + Custom exceptions sunt ok, imi place cand lumea nu arunca SystemException peste tot
+7. -+ Testing using mock objects, I would have done a test implementation for MenuItem
+8. - var aMenuItem = Mock.Of<MenuItem>(); apare obsesiv DRY out, extrage un TestInitialize sau o propietate Subject
+9. - Fiecare clasa cu clasa ei de test, nu cred ca e nevoie si Menu sa fie testat ttot in MenuItemTests
+
+Concluzie:
+Urmeaza sa pun biografie aici pentru ca mai e de citit
+
+
+Solutia 2:
+1. + PriceList e bine, ceva mai extensibila implementarea de gen GetPrice<TMenuItem>
+2. - Interface cu toate interefetele, pai pe principiul asta ar trebui sa ai numai 2 namespaceuri Interfaces si Classes
+3. - Pai ori avem IMenuItem ori MenuItemBase nu au rost amandoua
+4. - naming FoCateringOperations, it walks like a Service it quaks like a Service it must be a Service
+5. + Clara si concisa implementarea imi place ca are un inceput de DCI
+6. + TestInitialize in teste to DRY things out, bine
+
+Concluzie:
+Probabil calea pe care as fi urmato si eu pentru problema data vezi -
+
+Overall:
+Solutia2 > Solutia1 (cu mult)
