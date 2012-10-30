@@ -1,0 +1,30 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="DE234C64-CCDD-4D3F-A150-B3E316473FBC/f:NuGet.Config/s:..?.nuget?NuGet.Config" caret="0" fromTop="0" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/d:Burger/f:BurgerBase.cs" caret="50" fromTop="2" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/d:Drink/f:DrinkBase.cs" caret="49" fromTop="2" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/d:Fries/f:FriesBase.cs" caret="78" fromTop="4" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/d:Toy/f:ToyBase.cs" caret="74" fromTop="4" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/f:IOrderBuildContext.cs" caret="271" fromTop="11" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/d:Burger/f:Chicken.cs" caret="74" fromTop="3" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/d:Drink/f:Cola.cs" caret="62" fromTop="2" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/d:Fries/f:Some.cs" caret="62" fromTop="2" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/d:Toy/f:Car.cs" caret="57" fromTop="2" />
+    <File id="265B6653-AF9C-4A09-9238-5F5449795371/f:OrderTests.cs" caret="450" fromTop="16" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/f:Order.cs" caret="1156" fromTop="18" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="DE234C64-CCDD-4D3F-A150-B3E316473FBC/f:NuGet.Config/s:..?.nuget?NuGet.Config" caret="0" fromTop="0" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/d:Burger/f:BurgerBase.cs" caret="56" fromTop="2" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/d:Drink/f:DrinkBase.cs" caret="46" fromTop="2" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/d:Fries/f:FriesBase.cs" caret="81" fromTop="4" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/d:Toy/f:ToyBase.cs" caret="77" fromTop="4" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/f:IOrderBuildContext.cs" caret="271" fromTop="11" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/d:Burger/f:Chicken.cs" caret="84" fromTop="3" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/d:Drink/f:Cola.cs" caret="74" fromTop="2" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/d:Fries/f:Some.cs" caret="74" fromTop="2" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/d:Toy/f:Car.cs" caret="59" fromTop="2" />
+    <File id="2B364339-F9DC-44CF-89DE-7409F3B6E5A1/f:Order.cs" caret="1156" fromTop="18" />
+    <File id="265B6653-AF9C-4A09-9238-5F5449795371/f:OrderTests.cs" caret="461" fromTop="18" />
+  </RecentEdits>
+</RecentFiles>

@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="2B364339-F9DC-44CF-89DE-7409F3B6E5A1" ModuleId="FastFood" />
+  <Module PersistentId="265B6653-AF9C-4A09-9238-5F5449795371" ModuleId="FastFood.Tests" />
+</Modules>

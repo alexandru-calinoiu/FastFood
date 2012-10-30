@@ -1,0 +1,5 @@
+D:\Learn experiment inovate\FastFood\FastFood_2\FastFood\bin\Debug\FastFood.dll
+D:\Learn experiment inovate\FastFood\FastFood_2\FastFood\bin\Debug\FastFood.pdb
+D:\Learn experiment inovate\FastFood\FastFood_2\FastFood\obj\Debug\FastFood.csprojResolveAssemblyReference.cache
+D:\Learn experiment inovate\FastFood\FastFood_2\FastFood\obj\Debug\FastFood.dll
+D:\Learn experiment inovate\FastFood\FastFood_2\FastFood\obj\Debug\FastFood.pdb
